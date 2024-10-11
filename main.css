@@ -4,11 +4,11 @@
  }
  @font-face {
    font-family: inter-medium;
-   src: url('./Inter-Medium.otf');
+   src: url('./alraqifont2.ttf');
  }
  @font-face {
    font-family: inter-bold;
-   src: url('./Inter-SemiBold.otf');
+   src: url('./alraqifont1.ttf');
  }
  *{
     padding: 0;
