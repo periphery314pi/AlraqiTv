@@ -3,12 +3,12 @@
    src: url('./alraqifont1.ttf');
  }
  @font-face {
-   font-family: inter-medium;
+   font-family: alraqifont2;
    src: url('./alraqifont2.ttf');
  }
  @font-face {
-   font-family: inter-bold;
-   src: url('./alraqifont2.ttf');
+   font-family: alraqifont1;
+   src: url('./alraqifont1.ttf');
  }
  *{
     padding: 0;
