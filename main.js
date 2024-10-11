@@ -25,4 +25,4 @@ function closeMenu(){
     about.classList.remove("active");
 }
 
-test.innerHTML = 'makinde ahmed'
+test.innerHTML = 'TRIKI Seyfeddine'
